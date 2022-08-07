@@ -1,0 +1,69 @@
+/* style.css */
+
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: #351F39;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+  color: #A0C1B8;
+}
+
+h2 {
+  font-size: 36px;
+  color: #A0C1B8;
+}
+
+.recipe-list {
+  font-size: 24px;
+  text-align: center;
+}
+
+.recipe-list ul li {
+  display: inline;
+}
+
+a {
+  color: #719FB0;
+  font-size: 24px;
+}
+
+p {
+  color: #719FB0;
+  font-size: 24px;
+}
+
+ul,
+ol {
+  color: #719FB0;
+  font-size: 24px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#proatmeal {
+  height: 500px;
+  width: auto;
+}
+
+#toast {
+  height: auto;
+  width: 500px;
+}
+
+#icecream {
+  height: auto;
+  width: 500px;
+}
