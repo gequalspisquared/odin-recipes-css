@@ -21,13 +21,19 @@ h2 {
   color: #A0C1B8;
 }
 
-.recipe-list {
+div.recipe-list {
   font-size: 24px;
   text-align: center;
 }
 
+.recipe-list ul {
+  /* display: inline; */
+  padding: 0%;
+}
+
 .recipe-list ul li {
   display: inline;
+  /* padding: 0%; */
 }
 
 a {
